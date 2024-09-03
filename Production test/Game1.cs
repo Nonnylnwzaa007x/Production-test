@@ -12,6 +12,8 @@ namespace Production_test
         float p;
         int asd;
         int d;
+        int f;
+        //
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
