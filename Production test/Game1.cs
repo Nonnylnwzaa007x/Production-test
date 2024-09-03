@@ -8,6 +8,8 @@ namespace Production_test
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        int num = 12;
+        float p;
 
         public Game1()
         {
