@@ -10,7 +10,7 @@ namespace Production_test
         private SpriteBatch _spriteBatch;
         int num = 12;
         float p;
-
+        int asd;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
